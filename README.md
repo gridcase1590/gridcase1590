@@ -1,6 +1,7 @@
-## Who am I?
+```diff
+## @@ Who am ? @@
 
-> I, for the past 6 years have been known as @@ V3RDAD @@.
+>I, for the past 6 years have been known as @@ V3RDAD @@.
 > I, am a radical artist that opposes alternative relaity gaming.
 > I, will never stop creating real art for which my github account was bruteforced into.
 > PS: (Github Mobile's 2FA was not rate limited at the time of writing).
@@ -15,3 +16,4 @@
 
 > I dislike dualists and r/ARG since they inflict their personal opinions onto others without consent.
 ! For example: The r/ARG community takes consent away from the artist in a similar way as performative empathy, it promotes the artist's work as an ARG even though it's not and if the artist disagrees he is often insulted with terms such as "asshole, larper and schizo". - This is because in such "libertarian communities" individualism is considered as a danger.
+```
