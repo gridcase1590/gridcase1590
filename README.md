@@ -1,5 +1,7 @@
+<img align="right" width="241" height="300" alt="image" src="https://github.com/user-attachments/assets/d4248bc3-7abb-489d-b132-ddd2eb2abfe0" />
+
+
 # Who am I?
-<img align="right" width="308" height="293" alt="Laptop-Front-Panel" src="https://github.com/user-attachments/assets/e9ab0d3b-8b52-4e73-9182-8bd17f5af01d" />
 
 ```diff
 > I, for the past 6 years have been known as V3RDAD.
@@ -30,3 +32,5 @@
 
 > I will be adding more things here in the future.
 ```
+<img align="right" width="308" height="293" alt="Laptop-Front-Panel" src="https://github.com/user-attachments/assets/e9ab0d3b-8b52-4e73-9182-8bd17f5af01d" />
+
