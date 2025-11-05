@@ -1,6 +1,3 @@
-<img align="right" width="241" height="300" alt="image" src="https://github.com/user-attachments/assets/d4248bc3-7abb-489d-b132-ddd2eb2abfe0" />
-
-
 # Who am I?
 
 ```diff
@@ -32,5 +29,9 @@
 
 > I will be adding more things here in the future.
 ```
-<img align="right" width="308" height="293" alt="Laptop-Front-Panel" src="https://github.com/user-attachments/assets/e9ab0d3b-8b52-4e73-9182-8bd17f5af01d" />
+# My equipment
+(So that you know it's really me.)
 
+<img align="left" width="241" height="300" alt="image" src="https://github.com/user-attachments/assets/d4248bc3-7abb-489d-b132-ddd2eb2abfe0" />
+<img align="right" width="308" height="293" alt="Laptop-Front-Panel" src="https://github.com/user-attachments/assets/3381ded0-d3bf-4832-9eb4-3a3301df587a" />
+<img align="right" width="308" height="293" alt="Laptop-Front-Panel" src="https://github.com/user-attachments/assets/26bce099-64b7-4acb-87f6-7f44a2fba62a" />
