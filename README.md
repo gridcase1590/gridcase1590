@@ -2,7 +2,7 @@
 
 ```diff
 > I, for the past 6 years have been known as V3RDAD.
-> I, am a radical artist that opposes alternative relaity gaming.
+> I, am a radical artist that opposes alternative reality gaming.
 > I, will never stop making real art for which my github account was bruteforced into.
 > (Github Mobile's 2FA was not rate limited at the time of writing.)
 > I, really wanted to distinguish myself from everyone after this attack, seeing how even 1% of my personality makes people jealous.
